@@ -14,7 +14,7 @@
 
 	function exampleRoot($rootScope) {
 		return {
-			restrict: 'E',
+			restrict: 'A',
 			templateUrl: 'templates/example-root.html',
 			link: link,
 			controller: Controller,

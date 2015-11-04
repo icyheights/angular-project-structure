@@ -12,7 +12,7 @@
 
 	function exampleColorflip() {
 		return {
-			restrict: 'E',
+			restrict: 'A',
 			templateUrl: 'templates/example-colorflip.html',
 			link: link,
 			controller: Controller,
